@@ -2,7 +2,7 @@
 Open source script for the Ground Glass Opacity (GGO) publication.
 
 ## main script to generate the data and plots
-code/draft_v2.1.ipynb
+[code/draft_v2.1.ipynb](code/draft_v2.1.ipynb)
 
 ## Database views generated to summarize the notes_ggo table
 
