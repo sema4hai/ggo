@@ -1,9 +1,11 @@
 # ggo
 Open source script for the Ground Glass Opacity (GGO) publication.
+
 ## main script to generate the data and plots
 code/draft_v2.1.ipynb
 
 ## Database views generated to summarize the notes_ggo table
+
 ### v_persistent_cohort: the patients with persistent GGO as defined below.
 * Patients with multiple GGO reports, except for those with the last report as resolved.
 * Or patients with only one GGO report, but reported with a worsened status (number, size or solidity).
